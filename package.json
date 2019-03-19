@@ -1,0 +1,30 @@
+{
+  "name": "githubproj",
+  "version": "1.0.0",
+  "description": "this is first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aserg1234/first.git"
+  },
+  "author": "Antonina Padlovna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aserg1234/first/issues"
+  },
+  "homepage": "https://github.com/aserg1234/first#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "rimraf": "^2.6.3"
+  },
+  "dependencies": {
+    "gulp-rename": "^1.4.0",
+    "gulp.spritesmith": "^6.9.0"
+  }
+}
