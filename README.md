@@ -21,3 +21,25 @@
 в файле package.json, а также все их зависимости
 
 
+##Домашнее задание
+
+*прочитать
+-git push
+-git add
+-git status
+-git commit -m "some comment"
+-git branch
+-git checkout
+-git merge
+
+*поработать с gulp
+*прочитать о autoprefixer и sourcemap и установить в проект
+
+
+
+
+
+
+
+
+
